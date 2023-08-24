@@ -6,9 +6,9 @@
 
 ## Postcondition
 
-## Loop-Invariant
+## Loop invariant
 
-### Define loop invarinat
+### Define loop invariant
 
 ### Initialization
 

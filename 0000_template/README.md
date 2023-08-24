@@ -1,6 +1,6 @@
-# Proving Algorithm Correctness
+# Correctness Proof
 
-## problem description
+## Problem description
 
 ## Precondition
 
@@ -18,4 +18,4 @@
 
 ## Result
 
-## Time Complexity
+## Time complexity

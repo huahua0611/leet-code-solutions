@@ -19,3 +19,5 @@
 ## Result
 
 ## Time complexity
+
+## Note
